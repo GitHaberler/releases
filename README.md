@@ -6,7 +6,7 @@ Trilhando Caminho com PHP
 [Link do Projeto](https://github.com/TileWilly/releases)
 
 Ótimo momento para testar o Git e o GitHub
-Projeto releases
+Projeto releases ....
 
 * Dois arquivos: aplicacao.php e dados.txt
 * Gerado uma tag e depois enviada para rep. remodo via git push origin master -- tags
